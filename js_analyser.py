@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-JS Link Extractor and Analyzer Tool - Enhanced Version
+JS Link Extractor and Analyzer Tool
 Fetches JS links from one or more URLs, unminifies, and scans for endpoints and secrets.
 Supports scanning a list of URLs from a file concurrently.
 """
